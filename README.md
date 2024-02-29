@@ -1,2 +1,2 @@
-# upp.w22.posgrado
-Posgrado page
+# upp.w20.lpt.adistancia
+Online education
